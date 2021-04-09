@@ -1,2 +1,0 @@
-# python
-Base of python
